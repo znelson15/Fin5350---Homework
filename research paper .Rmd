@@ -1,0 +1,69 @@
+---
+title: "Automation vs. Human Labor in Accounting"
+author:
+- affiliation: Utah State University
+  name: Zachary Nelson
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output:
+  word_document: default
+  pdf_document:
+    citation_package: natbib
+    fig_caption: yes
+    keep_tex: yes
+    latex_engine: pdflatex
+    template: ./svm-latex-ms.tex
+biblio-style: apsr
+fontfamily: mathpazo
+fontsize: 11pt
+geometry: margin=1in
+keywords: Python, Monte Carlo, simulation, arbitrage
+bibliography: ./master.bib
+spacing: double
+abstract: In this article, we look into the field of accounting to see how automation affects the lives of accountants. We will explore how technology has hurt the field of accounting as well as how technology has advanced the profession and companies as a whole. We will use these arguements to build a background and then use their arguments to prove that neither is completely correct, meaning, there is a need for advanced technology and human labor in the field of accounting to be successful. 
+---
+
+
+>  
+
+# Introduction
+For decades now, people have been toying with the idea that robots and automation will take over our every day lives. From doing our jobs to ruling the world. Many television series and movies have taken these views to extreme levels. In 2018, things aren't quite to the extreme levels we see in some movies, but technology has become an important part of our everyday lives. There has been a debate amongst scholars and politicians for years as to whether or not technology is doing more good than harm within the job market. Some argue that "believe that rapid technological change has been destroying jobs faster than it is creating them." @rotman2013technology. Others argue that "automation is often used to make human workers more efficient, not necessarily to replace them. Rising productivity means businesses can do the same work with fewer employees, but it can also enable the businesses to expand production with their existing workers, and even to enter new markets." @rotman2013technology. The question then becomes who is right? Is automation and technology here to benefit the workforce, or put people out of work? Many companies have fallen behind the technological movement while others have full on embraced it, potentially too much. The methodology in the field of accounting has become a question of debate for many years now and that will be the area of study for this paper. As James Buchanon said "Unless we can, for some reason, accept the ever-changing activities of economists as being always a a part of the necessary evolution of the discipline through time, as being'on the highway,' it is essential that we look occasionally at the map or model for scietific progress that each of us surely carries around, consciously or unconcisouly, in his head." @Buchanon1979. Now while we aren't talking about economics in this paper, switching the word economics to accounting we can see a very valueable lesson from his words. Unless we are able to adapt to the ever changing we won't be able to survive in the profession. In order to be successful in the accounting profession I propose that companies and professionals need to find the right amount of balance between human labor and technology in order to survive in the ever changing world we find ourselves in.
+
+## Subsection 1 ( Outline )
+
+ - how the methodolgy of the accounting profession plays a key role in the field today.
+ - Talk about the benefits of human labor in accounting.
+ - The benefits of increased technology in accounting.
+ - The pitfalls of focusing solely on one or the other.
+ - How companies and professionals can embrace the middle of the two sides to come to the best possible solution of automation to human labor.
+ - conclusion 
+
+## Subsection 2 (Literary Review)
+
+- Buchanon: 1. Buchanon's main point is that economist's have become so focused on an idea that is not central to what economics should be focuse on. He believes that the methodology of economics should be more focused on and changed to focus on the people who constitute the market rather than the markets themselves.
+2. Catallactics is the study of the market describing prices as they are rather than as they should be. It goes back to his view about how economists focus too much on why the markets react they way they do instead of focusing on the people who are the market.
+3. Most economists, according to Buchanon, focus on the market as a body as an organism or a computational model in which you can input something and get an output. In this sense, the market becomes like the government. 
+4. Economists should focus on how the market makers make decisions rather than on the market itself. Focus on the relationships amongst people to trade and barter with each other. In the end, the market works itself out because of how the individuals make their choices. 
+
+- Hayek: Talks about the use of knowledge in society. I loved what he talked about on page 522 that everyon has a special advantage over another but only if he uses that to make decisions. In essence every company is going to have an advantage but they have to use that advantage to make decisions. While computers can aid in this process, they can't make the intuitive decisions that companies can.
+
+- Brynjolfsson and McAfee: In this book they talk about how machines have slowed economic progess and how they are changing the workforce.
+
+- Rockstroh: This arcticle hits a lot of the points I want to make. It talks about both sides and how technology has hurt professions but how it has helped them. It also has examples of how automation has improved the lives of some workers and that it is more likely to see the two working hand in hand in the future rather than computers and automation taking over the workforce. 
+
+# Middle Section
+
+
+
+# Summary and Conclusion
+
+
+
+<!--
+# References
+\setlength{\parindent}{-0.2in}
+\setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt}
+\vspace*{-0.2in}
+\noindent
+-->
+
