@@ -1,0 +1,21 @@
+Outline
+- Talk about the methodology in accounting
+- Talk about the benefits of human labor in accounting.
+ - The benefits of increased technology in accounting.
+ - The pitfalls of focusing solely on one or the other.
+ - How companies and professionals can embrace the middle of the two sides to come to the best possible solution of automation to human labor.
+ - conclusion 
+
+- Buchanon: 1. Buchanon's main point is that economist's have become so focused on an idea that is not central to what economics should be focuse on. He believes that the methodology of economics should be more focused on and changed to focus on the people who constitute the market rather than the markets themselves.
+2. Catallactics is the study of the market describing prices as they are rather than as they should be. It goes back to his view about how economists focus too much on why the markets react they way they do instead of focusing on the people who are the market.
+3. Most economists, according to Buchanon, focus on the market as a body as an organism or a computational model in which you can input something and get an output. In this sense, the market becomes like the government. 
+4. Economists should focus on how the market makers make decisions rather than on the market itself. Focus on the relationships amongst people to trade and barter with each other. In the end, the market works itself out because of how the individuals make their choices. 
+
+- Hayek: Talks about the use of knowledge in society. I loved what he talked about on page 522 that everyon has a special advantage over another but only if he uses that to make decisions. In essence every company is going to have an advantage but they have to use that advantage to make decisions. While computers can aid in this process, they can't make the intuitive decisions that companies can.
+
+- Brynjolfsson and McAfee: In this book they talk about how machines have slowed economic progess and how they are changing the workforce.
+  - Technological progress, in particular, improvements in computer hardware, software, and networks--- has been so rapid and so surprising that many present-day organizations, institutions, policies, and mindsets are not keeping up.
+  - In fact, some human skills are more valualbe than ever, even in an age of incredibly powerful and capable digital technologies.
+  - Our technologies are racing ahead but many of our skills and organizations are lagging behind. 
+
+- Rockstroh: This arcticle hits a lot of the points I want to make. It talks about both sides and how technology has hurt professions but how it has helped them. It also has examples of how automation has improved the lives of some workers and that it is more likely to see the two working hand in hand in the future rather than computers and automation taking over the workforce. 
